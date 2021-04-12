@@ -4,6 +4,6 @@ public class testFunc {
 
 	
 	public testFunc() {
-		System.out.println("Test func");
+		System.out.println("Test func!");
 	}
 }
